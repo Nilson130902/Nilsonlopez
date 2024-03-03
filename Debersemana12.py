@@ -4,116 +4,116 @@
 temperaturas = [
     [   # Ciudad 1
         [   # Semana 1
-            {"day": "Lunes", "temp": 78},
-            {"day": "Martes", "temp": 80},
-            {"day": "Miércoles", "temp": 82},
-            {"day": "Jueves", "temp": 79},
-            {"day": "Viernes", "temp": 85},
-            {"day": "Sábado", "temp": 88},
-            {"day": "Domingo", "temp": 92}
+            {"day": "Lunes", "temp": 18},
+            {"day": "Martes", "temp": 15},
+            {"day": "Miércoles", "temp": 12},
+            {"day": "Jueves", "temp": 19},
+            {"day": "Viernes", "temp": 15},
+            {"day": "Sábado", "temp": 18},
+            {"day": "Domingo", "temp": 12}
         ],
         [   # Semana 2
-            {"day": "Lunes", "temp": 76},
-            {"day": "Martes", "temp": 79},
-            {"day": "Miércoles", "temp": 83},
-            {"day": "Jueves", "temp": 81},
-            {"day": "Viernes", "temp": 87},
-            {"day": "Sábado", "temp": 89},
-            {"day": "Domingo", "temp": 93}
+            {"day": "Lunes", "temp": 16},
+            {"day": "Martes", "temp": 19},
+            {"day": "Miércoles", "temp": 13},
+            {"day": "Jueves", "temp": 11},
+            {"day": "Viernes", "temp": 17},
+            {"day": "Sábado", "temp": 18},
+            {"day": "Domingo", "temp": 13}
         ],
         [   # Semana 3
-            {"day": "Lunes", "temp": 77},
-            {"day": "Martes", "temp": 81},
-            {"day": "Miércoles", "temp": 85},
-            {"day": "Jueves", "temp": 82},
-            {"day": "Viernes", "temp": 88},
-            {"day": "Sábado", "temp": 91},
-            {"day": "Domingo", "temp": 95}
+            {"day": "Lunes", "temp": 17},
+            {"day": "Martes", "temp": 11},
+            {"day": "Miércoles", "temp": 15},
+            {"day": "Jueves", "temp": 12},
+            {"day": "Viernes", "temp": 18},
+            {"day": "Sábado", "temp": 11},
+            {"day": "Domingo", "temp": 15}
         ],
         [   # Semana 4
-            {"day": "Lunes", "temp": 75},
-            {"day": "Martes", "temp": 78},
-            {"day": "Miércoles", "temp": 80},
-            {"day": "Jueves", "temp": 79},
-            {"day": "Viernes", "temp": 84},
-            {"day": "Sábado", "temp": 87},
-            {"day": "Domingo", "temp": 91}
+            {"day": "Lunes", "temp": 15},
+            {"day": "Martes", "temp": 18},
+            {"day": "Miércoles", "temp": 10},
+            {"day": "Jueves", "temp": 19},
+            {"day": "Viernes", "temp": 14},
+            {"day": "Sábado", "temp": 17},
+            {"day": "Domingo", "temp": 11}
         ]
     ],
     [   # Ciudad 2
         [   # Semana 1
-            {"day": "Lunes", "temp": 62},
-            {"day": "Martes", "temp": 64},
-            {"day": "Miércoles", "temp": 68},
-            {"day": "Jueves", "temp": 70},
-            {"day": "Viernes", "temp": 73},
-            {"day": "Sábado", "temp": 75},
-            {"day": "Domingo", "temp": 79}
+            {"day": "Lunes", "temp": 12},
+            {"day": "Martes", "temp": 14},
+            {"day": "Miércoles", "temp": 18},
+            {"day": "Jueves", "temp": 10},
+            {"day": "Viernes", "temp": 13},
+            {"day": "Sábado", "temp": 15},
+            {"day": "Domingo", "temp": 19}
         ],
         [   # Semana 2
-            {"day": "Lunes", "temp": 63},
-            {"day": "Martes", "temp": 66},
-            {"day": "Miércoles", "temp": 70},
-            {"day": "Jueves", "temp": 72},
-            {"day": "Viernes", "temp": 75},
-            {"day": "Sábado", "temp": 77},
-            {"day": "Domingo", "temp": 81}
+            {"day": "Lunes", "temp": 13},
+            {"day": "Martes", "temp": 16},
+            {"day": "Miércoles", "temp": 10},
+            {"day": "Jueves", "temp": 12},
+            {"day": "Viernes", "temp": 15},
+            {"day": "Sábado", "temp": 17},
+            {"day": "Domingo", "temp": 11}
         ],
         [   # Semana 3
-            {"day": "Lunes", "temp": 61},
-            {"day": "Martes", "temp": 65},
-            {"day": "Miércoles", "temp": 68},
-            {"day": "Jueves", "temp": 70},
-            {"day": "Viernes", "temp": 72},
-            {"day": "Sábado", "temp": 76},
-            {"day": "Domingo", "temp": 80}
+            {"day": "Lunes", "temp": 11},
+            {"day": "Martes", "temp": 15},
+            {"day": "Miércoles", "temp": 18},
+            {"day": "Jueves", "temp": 10},
+            {"day": "Viernes", "temp": 12},
+            {"day": "Sábado", "temp": 16},
+            {"day": "Domingo", "temp": 10}
         ],
         [   # Semana 4
-            {"day": "Lunes", "temp": 64},
-            {"day": "Martes", "temp": 67},
-            {"day": "Miércoles", "temp": 69},
-            {"day": "Jueves", "temp": 71},
-            {"day": "Viernes", "temp": 74},
-            {"day": "Sábado", "temp": 77},
-            {"day": "Domingo", "temp": 80}
+            {"day": "Lunes", "temp": 14},
+            {"day": "Martes", "temp": 17},
+            {"day": "Miércoles", "temp": 19},
+            {"day": "Jueves", "temp": 11},
+            {"day": "Viernes", "temp": 14},
+            {"day": "Sábado", "temp": 17},
+            {"day": "Domingo", "temp": 10}
         ]
     ],
     [   # Ciudad 3
         [   # Semana 1
-            {"day": "Lunes", "temp": 90},
-            {"day": "Martes", "temp": 92},
-            {"day": "Miércoles", "temp": 94},
-            {"day": "Jueves", "temp": 91},
-            {"day": "Viernes", "temp": 88},
-            {"day": "Sábado", "temp": 85},
-            {"day": "Domingo", "temp": 82}
+            {"day": "Lunes", "temp": 10},
+            {"day": "Martes", "temp": 12},
+            {"day": "Miércoles", "temp": 14},
+            {"day": "Jueves", "temp": 11},
+            {"day": "Viernes", "temp": 14},
+            {"day": "Sábado", "temp": 15},
+            {"day": "Domingo", "temp": 12}
         ],
         [   # Semana 2
-            {"day": "Lunes", "temp": 89},
-            {"day": "Martes", "temp": 91},
-            {"day": "Miércoles", "temp": 93},
-            {"day": "Jueves", "temp": 90},
-            {"day": "Viernes", "temp": 87},
-            {"day": "Sábado", "temp": 84},
-            {"day": "Domingo", "temp": 81}
+            {"day": "Lunes", "temp": 19},
+            {"day": "Martes", "temp": 15},
+            {"day": "Miércoles", "temp": 15},
+            {"day": "Jueves", "temp": 20},
+            {"day": "Viernes", "temp": 17},
+            {"day": "Sábado", "temp": 14},
+            {"day": "Domingo", "temp": 21}
         ],
         [   # Semana 3
-            {"day": "Lunes", "temp": 91},
-            {"day": "Martes", "temp": 93},
-            {"day": "Miércoles", "temp": 95},
-            {"day": "Jueves", "temp": 92},
-            {"day": "Viernes", "temp": 89},
-            {"day": "Sábado", "temp": 86},
-            {"day": "Domingo", "temp": 83}
+            {"day": "Lunes", "temp": 11},
+            {"day": "Martes", "temp": 13},
+            {"day": "Miércoles", "temp": 15},
+            {"day": "Jueves", "temp": 12},
+            {"day": "Viernes", "temp": 18},
+            {"day": "Sábado", "temp": 16},
+            {"day": "Domingo", "temp": 13}
         ],
         [   # Semana 4
-            {"day": "Lunes", "temp": 88},
-            {"day": "Martes", "temp": 90},
-            {"day": "Miércoles", "temp": 92},
-            {"day": "Jueves", "temp": 89},
-            {"day": "Viernes", "temp": 86},
-            {"day": "Sábado", "temp": 83},
-            {"day": "Domingo", "temp": 80}
+            {"day": "Lunes", "temp": 18},
+            {"day": "Martes", "temp": 20},
+            {"day": "Miércoles", "temp": 22},
+            {"day": "Jueves", "temp": 19},
+            {"day": "Viernes", "temp": 16},
+            {"day": "Sábado", "temp": 18},
+            {"day": "Domingo", "temp": 20}
         ]
     ]
 ]
