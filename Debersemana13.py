@@ -141,4 +141,4 @@ for ciudad in temperaturas:
         print(f'El promedio semana nº  {n_semana} es: {promedio}')
     promedio_ciudad = calcular_promedio_ciudad(suma_promedio_sem,len(ciudad))
 
-    print(f'El promedio mensual es: {promedio_ciudad}')
+    print(f'El promedio mensual es: {promedio_ciudad}') 
